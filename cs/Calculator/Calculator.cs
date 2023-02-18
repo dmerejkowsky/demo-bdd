@@ -1,7 +1,6 @@
-﻿namespace Calculator
+﻿namespace Calculator;
+
+public class Calculator
 {
-    public class Calculator
-    {
-        public int Add(int x, int y) { return x + y; }
-    }
+    public int Add(int x, int y) { return x + y; }
 }
