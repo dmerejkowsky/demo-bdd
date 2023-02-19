@@ -1,0 +1,14 @@
+{
+  "name": "bdd-demo",
+  "version": "1.0.0",
+  "description": "A BDD demo",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.11.1",
+    "standard": "^17.0.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  }
+}
